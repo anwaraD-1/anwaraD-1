@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **react native**
 
-- 👨‍💻 All of my projects are available at [https://anwarad-1.github.io/MyPortfolio/](https://anwarad-1.github.io/MyPortfolio/)
+- 👨‍💻 All of my projects are available at [https://anwarad-1.github.io/Portfolio/)
 
 - 💬 Ask me about **javascript**
 
